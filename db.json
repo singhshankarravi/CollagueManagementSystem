@@ -1,0 +1,80 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "fname": "sunil",
+      "lname": "kumar singh",
+      "email": "sunil@gmail.com",
+      "mobile": "789456123",
+      "salary": "80000"
+    },
+    {
+      "id": 4,
+      "fname": "sonu",
+      "lname": "kumar",
+      "email": "sonu@gmail.com",
+      "mobile": "741852963",
+      "salary": "56000"
+    },
+    {
+      "id": 5,
+      "fname": "monu",
+      "lname": "kumar",
+      "email": "monu@gmail.com",
+      "mobile": "789456123",
+      "salary": "260000"
+    },
+    {
+      "id": 6,
+      "fname": "vasant",
+      "lname": "shankar",
+      "email": "vasant@gmail.com",
+      "mobile": "789456123",
+      "salary": "560000"
+    },
+    {
+      "id": 7,
+      "fname": "shashi",
+      "lname": "shankar",
+      "email": "sha@gmail.com",
+      "mobile": "852963741",
+      "salary": "26000"
+    },
+    {
+      "id": 8,
+      "fname": "chetan",
+      "lname": "sharma",
+      "email": "chetan@gmail.com",
+      "mobile": "741852963",
+      "salary": "56000"
+    },
+    {
+      "id": 9,
+      "fname": "ravi",
+      "lname": "shankar",
+      "email": "ravi@gmail.com",
+      "mobile": "741852963",
+      "salary": "890000"
+    },
+    {
+      "id": 10,
+      "fname": "dfghj",
+      "lname": "ghjkl",
+      "email": "fghjkl;",
+      "mobile": "741852963",
+      "salary": "74185"
+    },
+    {
+      "id": 11,
+      "fname": "pkp",
+      "lname": "sdfgh",
+      "email": "asdfghjkxcvb",
+      "mobile": "sdfghj",
+      "salary": "741852963"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
